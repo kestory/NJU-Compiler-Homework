@@ -1,8 +1,14 @@
 # NJU-Compiler-Homework
+
+
 *some of the homework solution for the class [Principles and Techniques of Compilers] in 2018 fall at NJUCS*
 
+
+
 [^_^]: 时间地点人物
-|  |  |
+
+
+| - | --- |
 | :------: | ------ | 
 | Class | Principles and Techniques of Compilers |
 | Time | 2018 Fall | 
